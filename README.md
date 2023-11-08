@@ -1,4 +1,7 @@
-# Enumeration
+## EX.NO : 03
+## DATE : 7.9.2023
+# <p align="center">Enumeration</p>
+
 Explore Google hacking and enumeration
 ## AIM:
 To use Google for gathering information and perform enumeration of targets
